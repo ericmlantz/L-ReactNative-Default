@@ -1,6 +1,6 @@
 //imported 3rd party libraries
 import { StatusBar } from 'expo-status-bar'
-import { StyleSheet, Text, View } from 'react-native'
+import { StyleSheet, TextInput } from 'react-native'
 
 //imported from this repo
 import ComponentExamples from './app/screens/ComponentExamples'
@@ -11,13 +11,10 @@ export default function App() {
   //render
   return (
     <Screen style={styles.container}>
-
       <ComponentExamples />
       {/* ComponentExamples is found in ./app/screens/ComponentExamples.js */}
-
       <StatusBar style="auto" />
       {/* Sets the color of the status bar text. Default value is "auto" which picks the appropriate value according to the active color scheme, eg: if your app is dark mode, the style will be "light". */}
-
     </Screen>
   )
 }
