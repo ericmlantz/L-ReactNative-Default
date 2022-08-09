@@ -2,9 +2,19 @@
 
 This is a template repo that contains a default React Native project using Expo **with additional useful elements.**
 
+## **Table of Contents:**
+
+1. [Installing Dependencies/Libraries](#installing)
+2. [File Structure](#structure)
+3. [Components](#components)
+4. [React Native Functional Component Snippet](#rnfc)
+5. [Config Files](#config)
+6. [Comments](#comments)
+7. [Contact Me](#final)
+
 ---
 
-Installed Libraries:
+## Installing Dependencies/Libraries<a id="installing"></a>
 
 To get all the dependencies and libraries that I installed for this template, enter `npm install` in the terminal when you open the application for the first time in your IDE.
 
@@ -21,13 +31,13 @@ Once you have created your own repo from the template, installed the dependencie
 
 ## **Template Features**
 
-## File Structure:
+## File Structure:<a id="structure"></a>
 
 _Everything in bold is added past the original `create-expo` file structure._
 
 ![Image](./app/assets/FileStructure.png)
 
-## Components
+## Components<a id="components"></a>
 
 Added 4 components with general formatting that allow for starting the UI of the app more easily!
 
@@ -35,7 +45,7 @@ The **`screens`** folder contains a file called _ComponentExamples.js_ which is 
 
 In _ComponentExamples.js_, there are visual usages of all 4 of the additional components I created so it is easier to identify what they do and how they do it. The components in this file are calls of the components that are setup in the **`components`** folder in the file structure.
 
-## React Native Functional Component Snippet
+## React Native Functional Component Snippet<a id="rnfc"></a>
 
 I also created an additional component in the components folder called rnfc (React Native Functional Component) that contains the structure to create a component script. You can copy the contents of this file and create a new snippet using it and it will contain all the structural elements needed for a component.
 
@@ -44,7 +54,7 @@ I also created an additional component in the components folder called rnfc (Rea
 
 _I was going to use a code snippet that could be downloaded, but not everyone uses Visual Studio Code and I figured this would be easier than having to learn how to import code snippets if you ddidn't know how anyway!_
 
-## Config Folder
+## Config Folder<a id="config"></a>
 
 Created a config folder that contains a _colors.js_ file and a _styles.js_ file.
 
@@ -62,12 +72,12 @@ Created a config folder that contains a _colors.js_ file and a _styles.js_ file.
 
   > `defaultStyles` is the name I gave to describe all my styles in that config file. You could make that part in the import whatever you wanted, just be consistent.
 
-## Comments
+## Comments<a id="comments"></a>
 
 Most scripts have comments in them to help with small details that were easier to put there than in this README.
 
 ---
 
-## **Final Thoughts**:
+## **Contact Me**:<a id="final"></a>
 
 If you have any questions, don't hesitate to reach out on: [Email](mailto:ericmlantz@gmail.com) or [LinkedIn](https://www.linkedin.com/in/eric-lantz/).
