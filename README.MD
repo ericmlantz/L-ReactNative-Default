@@ -40,7 +40,7 @@ In _ComponentExamples.js_, there are visual usages of all 4 of the additional co
 I also created an additional component in the components folder called rnfc (React Native Functional Component) that contains the structure to create a component script. You can copy the contents of this file and create a new snippet using it and it will contain all the structural elements needed for a component.
 
 > The only thing needed to be changed when copying the code is you should have the component's function name match the name of the component you put in the file tree.
-> ![Image](https://i.imgur.com/75QQjXi.png)
+> ![Image](./app/assets/React%20Native%20Functional%20Component%20Changes.png)
 
 _I was going to use a code snippet that could be downloaded, but not everyone uses Visual Studio Code and I figured this would be easier than having to learn how to import code snippets if you ddidn't know how anyway!_
 
