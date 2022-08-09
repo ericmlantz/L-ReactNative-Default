@@ -11,7 +11,7 @@ const ComponentExamples = () => {
   //render
   return (
     <>
-      {/* Using empty brackets <>Content</> allows you to not need a View or Screen and it just is a holder for the inner components which has to be all in one container. */}
+      {/* Using empty brackets <>Content</> allows you to not need a View or Screen and it is just a holder for the inner components which has to be all in one container to render. */}
 
       <AppButton
         title="AppButton Component"
@@ -27,7 +27,6 @@ const ComponentExamples = () => {
 
       <AppTextInput icon="home" placeholder="AppTextInput Placeholder + icon" />
       {/* AppleTextInput with an icon and default width */}
-      
     </>
   )
 }
