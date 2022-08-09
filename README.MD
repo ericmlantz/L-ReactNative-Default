@@ -6,7 +6,7 @@ This is a template repo that contains a default React Native project using Expo 
 
 Installed Libraries:
 
-To get all the dependencies and libraries that I installed for this template, type `npm install' when you open the application for the first time in your IDE
+To get all the dependencies and libraries that I installed for this template, enter `npm install` in the terminal when you open the application for the first time in your IDE.
 
 **Added Dependencies:**
 
@@ -25,7 +25,7 @@ Once you have created your own repo from the template, installed the dependencie
 
 _Everything in bold is added past the original `create-expo` file structure._
 
-![Image](https://i.imgur.com/o5OSvoW.png)
+![Image](./app/assets/FileStructure.png)
 
 ## Components
 
@@ -59,3 +59,13 @@ Created a config folder that contains a _colors.js_ file and a _styles.js_ file.
   ![Image](./app/assets/ConfigText.png)
 
   > `defaultStyles` is the name I gave to describe all my styles in that config file. You could make that part in the import whatever you wanted, just be consistent.
+
+## Comments
+
+Most scripts have comments in them to help with small details that were easier to put there than in this README.
+
+---
+
+## **Final Thoughts**:
+
+If you have any questions, don't hesitate to reach out on:[Email](mailto:ericmlantz@gmail.com) or [LinkedIn](https://www.linkedin.com/in/eric-lantz/).
