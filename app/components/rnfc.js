@@ -9,7 +9,7 @@ const rnfc = () => {
   return <View></View>
 }
 
-//styles
+//define your styles
 const styles = StyleSheet.create({
   container: {}
 })

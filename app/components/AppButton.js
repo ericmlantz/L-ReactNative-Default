@@ -1,10 +1,12 @@
 //imported 3rd party libraries
-import React from 'react'
 import { Text, StyleSheet, TouchableHighlight } from 'react-native'
+
+//imported from this repo
 import colors from '../config/colors'
 
 // create the component
 const AppButton = ({ title, onPress, color = 'primary' }) => {
+  //render
   return (
     <TouchableHighlight
       style={[styles.container, { backgroundColor: colors[color] }]}

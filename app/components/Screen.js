@@ -2,6 +2,8 @@
 import { StyleSheet, SafeAreaView, View } from 'react-native'
 import Constants from 'expo-constants'
 
+//imported from this repo
+
 //create the component
 const Screen = ({ children, style }) => {
   //render

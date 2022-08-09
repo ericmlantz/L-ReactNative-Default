@@ -6,7 +6,7 @@ import { StyleSheet, TextInput } from 'react-native'
 import ComponentExamples from './app/screens/ComponentExamples'
 import Screen from './app/components/Screen'
 
-//make this component available to view
+//make this component available to display
 export default function App() {
   //render
   return (
@@ -19,6 +19,7 @@ export default function App() {
   )
 }
 
+//define your styles
 const styles = StyleSheet.create({
   container: {
     flex: 1,

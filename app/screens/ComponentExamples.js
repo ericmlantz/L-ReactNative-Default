@@ -31,7 +31,7 @@ const ComponentExamples = () => {
   )
 }
 
-//styles
+//define your styles
 const styles = StyleSheet.create({
   container: {}
   //No styles are used, so it doesn't have to be here, but doesn't hurt anything if it's empty.

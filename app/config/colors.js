@@ -1,3 +1,4 @@
+//make this component available to the app
 export default {
   //Change the colors to whichever you need. All key/value pairs are OPTIONAL. Use any 'KEY' name to describe color, just make sure to use the same name in the code.
 
