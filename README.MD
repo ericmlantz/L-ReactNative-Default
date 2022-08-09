@@ -50,7 +50,8 @@ Created a config folder that contains a _colors.js_ file and a _styles.js_ file.
 
 - The _colors.js_ file contains the setup for using a color theme in your application. It has spots for 3 main colors as well as black, white, light grey, medium grey, and dark grey. The great thing is though that it is completely customizable. It is just the setup of such a configuration so that you can change it to however many colors you want with any names you want. When you want to use those colors, simply import the colors script into your component and use dot notation to represent the color you want to use there.
 
-  An example can be found in the _AppButton.js_ component in the styles section, but here it is as well in a more basic display:![Image](./app/assets/ConfigColors.png)
+  An example can be found in the _AppButton.js_ component in the styles section, but here it is as well in a more basic display:
+  ![Image](./app/assets/ConfigColors.png)
 
 * The styles.js file contains the setup for global styles that you would like to use throughout the repo. Any element that you want to have the styles from the config file can be done by just importing the default object from the styles.js file into your desired component:
 
@@ -68,4 +69,4 @@ Most scripts have comments in them to help with small details that were easier t
 
 ## **Final Thoughts**:
 
-If you have any questions, don't hesitate to reach out on:[Email](mailto:ericmlantz@gmail.com) or [LinkedIn](https://www.linkedin.com/in/eric-lantz/).
+If you have any questions, don't hesitate to reach out on: [Email](mailto:ericmlantz@gmail.com) or [LinkedIn](https://www.linkedin.com/in/eric-lantz/).
